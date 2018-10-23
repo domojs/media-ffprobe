@@ -18,7 +18,7 @@
   "homepage": "https://github.com/domojs/media-ffprobe#readme",
   "dependencies": {
     "@akala/server": "^2.0.23",
-    "@types/ws": "^5.1.2",
+    "@types/ws": "^6.0.1",
     "JSONStream": "^1.3.3",
     "bl": "^2.0.1",
     "ffbinaries": "^1.1.0",
