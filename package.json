@@ -21,7 +21,7 @@
     "@types/ws": "^5.1.2",
     "JSONStream": "^1.3.3",
     "bl": "^2.0.1",
-    "ffbinaries": "^1.1.0",
+    "ffbinaries": "^1.1.1",
     "ffprobe": "^1.1.0"
   }
 }
