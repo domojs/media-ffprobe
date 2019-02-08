@@ -4,7 +4,7 @@ import { scrapper, Media } from '@domojs/media';
 import { scrapper as ffprobe } from './scrapper';
 export * from './scrapper';
 
-akala.injectWithNameAsync(['$isModule', '$agent.api/@domojs/media'], function (isModule: akala.worker.IsModule, client: Client<Connection>)
+akala.injectWithNameAsync(['$isModule', '$agent.api/media'], function (isModule: akala.worker.IsModule, client: Client<Connection>)
 {
     if (isModule('@domojs/media-ffprobe'))
     {
