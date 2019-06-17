@@ -517,9 +517,9 @@ fd-slicer@~1.0.1:
     pend "~1.2.0"
 
 ffbinaries@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/ffbinaries/-/ffbinaries-1.1.1.tgz#e85e50539cfee7632fb993337cfd73458ff78562"
-  integrity sha512-ixiPkXzZUY9Td9hOxR0OrkYue+2xZGdCkmL9kf5FKaX9Nuyfq9XD+KMTHnATYLtpncG3zuKAiXtspokzTZPTsQ==
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/ffbinaries/-/ffbinaries-1.1.2.tgz#957fbc5e8a5ac6d6d84032977f494979108aa880"
+  integrity sha512-sUwKw1NliqMv6SczsdZ9BPD/hrFsXgla4EUzsFaaexECZy+Yh0g1LSSlXNloAywVMmKBY+OIRYK0I6nMs8p57w==
   dependencies:
     async "^2.6.1"
     clarg "0.0.4"
