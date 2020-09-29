@@ -26,7 +26,7 @@
   "devDependencies": {
     "@domojs/media": "^1.1.63",
     "@types/debug": "^4.1.0",
-    "@types/ws": "^6.0.1"
+    "@types/ws": "^7.2.7"
   },
   "peerDependencies": {
     "@domojs/media": "^1.1.63"
